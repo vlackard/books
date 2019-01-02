@@ -8,6 +8,7 @@ A list of books on software, startups, manegement, design, technology and other 
 
 ## To read
 
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 * [The Facebook Effect: The Inside Story of the Company That Is Connecting the World](https://www.amazon.com/Facebook-Effect-Inside-Company-Connecting/dp/1439102120/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=YMXK9A8SDSB7HDWQNYNW)
 * [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B019MMUAAQ)
